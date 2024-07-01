@@ -1,0 +1,47 @@
+<!-- Used template inheritance to split the single templates in commen elements of the website. The child templates
+ will fill the empty blocks of the parent template with the contents in the base.html 
+ Some reference: https://docs.djangoproject.com/en/5.0/ref/templates/language/#template-inheritance 
+ https://medium.com/django-unleashed/mastering-django-template-inheritance-building-consistent-and-maintainable-web-pages-aefea9456fe9 -->
+
+ {% extends "base.html" %}
+
+ {% block title %}Tennis App{% endblock %}
+ 
+ {% block content %}
+ <div class="content-wrapper">
+  <div class="left-container">
+    <div class="list-container">
+      <ul>
+        <li>
+          <h3>Some tennis stats</h3>
+          <ul>
+            <li><a href="#" onclick="fetchData(1)">Who are the players with the most effective serves?</a></li>
+            <li><a href="#" onclick="fetchData(2)">Which countries are known for producing the top-performing players?</a></li>
+            <li><a href="#" onclick="fetchData(3)">How does a player's right or left-hand use affect match outcomes?</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div class="answer-container" id="answer-container">
+      <!-- This container will dynamically display the answers -->
+    </div>
+  </div>
+   <div class="right-container">
+     {% include "form.html" %}
+     <div class="new-entry-container" id="new-entry-container">
+      <div id="letter-grid">
+        <!-- Grid will be displayed here -->
+        <div class="letter-grid">
+          {% for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" %}
+          <div class="letter-cell">
+            <a href="#" data-letter="{{ letter }}" onclick="fetchPlayersByLetter('{{ letter }}')">{{ letter }}</a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+   </div>
+   
+ </div>
+ {% endblock %}
+ 

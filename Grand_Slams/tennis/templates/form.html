@@ -1,0 +1,25 @@
+{% load django_bootstrap5 %}
+
+<div class="form-container">
+  <form id="player-form" onsubmit="add(event)" method="post" class="form">
+    {% csrf_token %}
+    <div class="form-row">
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" name="fullname">
+    </div>
+    <div class="form-row">
+      <label for="country">Country:</label>
+      <input type="text" id="country" name="country">
+    </div>
+    <div class="form-row">
+      <label for="height">Height:</label>
+      <input type="text" id="height" name="height">
+    </div>
+    <div class="form-row">
+      <label for="hand">Hand:</label>
+      <input type="text" id="hand" name="hand">
+    </div>
+    <input type="hidden" id="player_id" name="player_id" value="">
+    {% bootstrap_button button_type="submit" content="Submit" %}
+  </form>
+</div>

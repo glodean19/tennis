@@ -1,0 +1,463 @@
+player_id,player_name,hand,height,ioc
+106361,Adam Pavlasek,R,186,CZE
+105173,Adrian Mannarino,L,183,FRA
+104629,Adrian Menendez Maceiras,R,185,ESP
+104494,Adrian Ungur,R,178,ROU
+202400,Alastair Gray,R,NULL,GBR
+105874,Albano Olivetti,R,203,FRA
+103656,Albert Montanes,R,175,ESP
+105077,Albert Ramos,L,188,ESP
+200221,Alejandro Davidovich Fokina,R,183,ESP
+104268,Alejandro Falla,L,185,COL
+105292,Alejandro Gonzalez,R,190,COL
+126214,Alejandro Tabilo,L,188,CHI
+206499,Aleksandar Kovacevic,U,NULL,USA
+126846,Aleksandar Vukic,R,188,AUS
+104873,Aleksandr Nedovyesov,R,193,KAZ
+105561,Alessandro Giannessi,L,183,ITA
+104166,Alex Bogomolov Jr,R,178,RUS
+106109,Alex Bolt,L,183,AUS
+200282,Alex De Minaur,R,183,AUS
+104864,Alex Kuznetsov,R,183,USA
+210506,Alex Michelsen,U,NULL,USA
+144684,Alex Molcan,L,178,SVK
+122330,Alexander Bublik,R,196,KAZ
+104628,Alexander Kudryavtsev,R,183,RUS
+106310,Alexander Ritschard,R,NULL,SUI
+207686,Alexander Shevchenko,R,NULL,KAZ
+105528,Alexander Ward,R,185,GBR
+100644,Alexander Zverev,R,198,GER
+105238,Alexandr Dolgopolov,R,180,UKR
+124186,Alexandre Muller,R,183,FRA
+200615,Alexei Popyrin,R,196,AUS
+106072,Alexey Vatutin,R,178,RUS
+105379,Aljaz Bedene,R,181,SLO
+105063,Andrea Arnaboldi,L,180,ITA
+131934,Andrea Vavassori,R,193,ITA
+104676,Andreas Beck,L,190,GER
+104890,Andreas Haider Maurer,R,190,AUT
+104312,Andreas Seppi,R,190,ITA
+105413,Andrej Martin,R,180,SVK
+106302,Andrew Harris,R,183,AUS
+106225,Andrew Whittington,R,188,AUS
+104979,Andrey Golubev,R,185,KAZ
+105723,Andrey Kuznetsov,R,185,RUS
+126094,Andrey Rublev,R,188,RUS
+104918,Andy Murray,R,190,GBR
+105302,Ante Pavic,R,196,CRO
+126156,Antoine Hoang,R,183,FRA
+209070,Arthur Cazaux,R,183,FRA
+105963,Arthur De Greef,R,183,BEL
+209259,Arthur Fery,R,NULL,GBR
+209950,Arthur Fils,R,185,FRA
+126239,Arthur Rinderknech,R,196,FRA
+106234,Aslan Karatsev,R,185,RUS
+105226,Attila Balazs,R,180,HUN
+105572,Austin Krajicek,L,188,USA
+105678,Axel Michon,L,176,FRA
+210097,Ben Shelton,L,NULL,USA
+103794,Benjamin Becker,R,178,GER
+126127,Benjamin Bonzi,R,185,FRA
+105332,Benoit Paire,R,196,FRA
+126523,Bernabe Zapata Miralles,R,185,ESP
+106071,Bernard Tomic,R,193,AUS
+106216,Bjorn Fratangelo,R,183,USA
+106425,Blake Mott,U,180,AUS
+104882,Blaz Kavcic,R,188,SLO
+105641,Blaz Rola,L,193,SLO
+106432,Borna Coric,R,188,CRO
+127339,Borna Gojo,R,196,CRO
+122298,Botic Van De Zandschulp,R,188,NED
+105614,Bradley Klahn,L,190,USA
+200587,Brandon Holt,R,NULL,USA
+206909,Brandon Nakashima,R,185,USA
+111790,Brayden Schnur,R,193,CAN
+104548,Brian Baker,R,190,USA
+105454,Brydan Klein,R,183,AUS
+123921,Calvin Hemery,R,188,FRA
+111815,Cameron Norrie,L,188,GBR
+200116,Camilo Ugo Carabelli,R,NULL,ARG
+207989,Carlos Alcaraz,R,185,ESP
+104122,Carlos Berlocq,R,183,ARG
+126535,Carlos Taberner,R,183,ESP
+134770,Casper Ruud,R,183,NOR
+105649,Cedrik Marcel Stebe,L,183,GER
+117356,Cem Ilkel,R,185,TUR
+106328,Christian Harrison,R,178,USA
+105872,Christian Lindell,R,193,SWE
+111153,Christopher Eubanks,R,201,USA
+106331,Christopher Oconnell,R,183,AUS
+202358,Chun Hsin Tseng,R,175,TPE
+123768,Collin Altamirano,R,188,USA
+106005,Constant Lestienne,R,180,FRA
+144895,Corentin Moutet,L,178,FRA
+106426,Cristian Garin,R,185,CHI
+207494,Dalibor Svrcina,R,NULL,CZE
+106000,Damir Dzumhur,R,172,BIH
+127157,Daniel Altmaier,R,191,GER
+104978,Daniel Brands,R,196,GER
+105638,Daniel Cox,R,170,GBR
+123755,Daniel Elahi Galan,R,191,COL
+105554,Daniel Evans,R,175,GBR
+104593,Daniel Gimeno Traver,R,185,ESP
+109054,Daniel Masur,R,183,GER
+103926,Daniel Munoz de la Nava,L,178,ESP
+105651,Daniel Smethurst,U,188,GBR
+106421,Daniil Medvedev,R,198,RUS
+105985,Darian King,R,188,BAR
+103970,David Ferrer,R,175,ESP
+105676,David Goffin,R,180,BEL
+104095,David Guez,R,185,FRA
+104797,Denis Istomin,R,188,UZB
+106045,Denis Kudla,R,180,USA
+133430,Denis Shapovalov,L,185,CAN
+110602,Dennis Novak,R,183,AUT
+106261,Dennis Novikov,R,193,USA
+105842,Di Wu,R,175,CHN
+106043,Diego Schwartzman,R,170,ARG
+104098,Dmitry Tursunov,R,185,RUS
+208502,Dominic Stricker,L,180,SUI
+106233,Dominic Thiem,R,185,AUT
+136440,Dominik Koepfer,L,180,GER
+105385,Donald Young,L,183,USA
+104534,Dudi Sela,R,175,ISR
+105583,Dusan Lajovic,R,180,SRB
+104460,Dustin Brown,R,196,GER
+104273,Edouard Roger Vasselin,R,188,FRA
+124013,Eduardo Nava,R,NULL,USA
+106078,Egor Gerasimov,R,196,BLR
+111200,Elias Ymer,R,183,SWE
+200611,Elliot Benchetrit,R,193,FRA
+200325,Emil Ruusuvuori,R,188,FIN
+105877,Emilio Gomez,R,185,ECU
+207182,Emilio Nava,R,183,USA
+111505,Enzo Couacaud,R,183,FRA
+124014,Ernesto Escobedo,R,185,MEX
+105208,Ernests Gulbis,R,190,LAT
+210319,Ethan Quinn,U,NULL,USA
+105960,Evan King,L,185,USA
+105539,Evgeny Donskoy,R,185,RUS
+206681,Fabian Marozsan,R,191,HUN
+104926,Fabio Fognini,R,178,ITA
+106032,Facundo Arguello,R,178,ARG
+105487,Facundo Bagnis,L,183,ARG
+207680,Facundo Diaz Acosta,L,183,ARG
+105948,Federico Coria,R,180,ARG
+105643,Federico Delbonis,L,190,ARG
+105943,Federico Gaio,R,180,ITA
+103852,Feliciano Lopez,L,188,ESP
+200335,Felipe Meligeni Alves,R,185,BRA
+200000,Felix Auger Aliassime,R,193,CAN
+104269,Fernando Verdasco,L,188,ESP
+105936,Filip Krajinovic,R,185,SRB
+103835,Filippo Volandri,R,183,ITA
+207925,Flavio Cobolli,R,NULL,ITA
+104252,Florian Mayer,R,190,GER
+126207,Frances Tiafoe,R,188,USA
+202103,Francisco Cerundolo,R,185,ARG
+106162,Franco AgameNULL,L,NULL,ITA
+104433,Frank Dancevic,R,185,CAN
+105015,Franko Skugor,R,193,CRO
+106393,Frederico Ferreira Silva,L,178,POR
+104792,Gael Monfils,R,193,FRA
+105671,Gastao Elias,R,178,POR
+144821,Genaro Alberto Olivieri,U,NULL,ARG
+144972,Geoffrey Blancaneaux,R,180,FRA
+207785,George Loffhagen,R,NULL,GBR
+105589,Gerald Melzer,L,188,AUT
+105325,Germain Gigounon,R,NULL,BEL
+126149,Gianluca Mager,R,185,ITA
+133835,Gijs Brouwer,L,NULL,NED
+104180,Gilles Muller,L,193,LUX
+104468,Gilles Simon,R,183,FRA
+208659,Giovanni Mpetshi Perricard,R,NULL,FRA
+206748,Giulio Zeppieri,L,185,ITA
+105163,Gleb Sakharov,R,185,FRA
+104424,Go Soeda,R,178,JPN
+106296,Gregoire Barrere,R,183,FRA
+105777,Grigor Dimitrov,R,188,BUL
+105819,Guido Andreozzi,R,183,ARG
+105550,Guido Pella,L,185,ARG
+106105,Guilherme Clezar,R,183,BRA
+104198,Guillermo Garcia Lopez,R,188,ESP
+209098,Hamad Medjedovic,R,185,SRB
+208004,Harold Mayot,R,178,FRA
+105967,Henri Laaksonen,R,185,SUI
+105655,Hiroki Moriya,R,170,JPN
+208029,Holger Rune,R,185,DEN
+104547,Horacio Zeballos,L,188,ARG
+128034,Hubert Hurkacz,R,196,POL
+106198,Hugo Dellien,R,180,BOL
+200384,Hugo Gaston,L,173,FRA
+126409,Hugo Grenier,R,196,FRA
+111202,Hyeon Chung,R,188,KOR
+104997,Igor Sijsling,R,190,NED
+105011,Illya Marchenko,R,185,UKR
+125802,Ilya Ivashka,R,193,BLR
+105438,Inigo Cervantes Huegun,R,183,ESP
+104471,Ivan Dodig,R,183,CRO
+103333,Ivo Karlovic,R,208,CRO
+200670,J J Wolf,R,183,USA
+207733,Jack Draper,L,191,GBR
+106058,Jack Sock,R,185,USA
+210150,Jakub Mensik,U,NULL,CZE
+105902,James Duckworth,R,183,AUS
+104945,James Mcgee,R,183,IRL
+104868,James Ward,R,190,GBR
+123828,Jan Choinski,R,NULL,GBR
+104225,Jan Hajek,R,180,CZE
+103401,Jan Hernych,R,190,CZE
+105526,Jan Lennard Struff,R,193,GER
+105596,Jan Satral,R,188,CZE
+104386,Janko Tipsarevic,R,180,SRB
+206173,Jannik Sinner,R,188,ITA
+111577,Jared Donaldson,R,188,USA
+103813,Jarkko Nieminen,L,185,FIN
+105359,Jason Jung,R,178,TPE
+106186,Jason Kubler,R,178,AUS
+144719,Jaume Munar,R,183,ESP
+126652,Jay Clarke,R,183,GBR
+111574,Jc Aragone,R,178,USA
+202385,Jenson Brooksby,R,188,USA
+104871,Jeremy Chardy,R,188,FRA
+105668,Jerzy Janowicz,R,203,POL
+104619,Jesse Huta Galung,R,188,NED
+104499,Jimmy Wang,R,178,TPE
+208103,Jiri Lehecka,R,185,CZE
+106210,Jiri Vesely,L,198,CZE
+105311,Joao Sousa,R,185,POR
+105154,Joao Souza,R,193,BRA
+104545,John Isner,R,206,USA
+105357,John Millman,R,183,AUS
+105441,John Patrick Smith,L,188,AUS
+111442,Jordan Thompson,R,183,AUS
+105515,Jordi Samper Montana,U,NULL,ESP
+104542,Jo-Wilfried Tsonga,R,188,FRA
+106075,Jozef Kovalik,R,183,SVK
+106228,Juan Ignacio Londero,R,180,ARG
+207678,Juan Manuel Cerundolo,L,183,ARG
+105223,Juan Martin del Potro,R,198,ARG
+104338,Juan Monaco,R,185,ARG
+122669,Juan Pablo Varillas,R,185,PER
+104714,Julian Reister,R,188,GER
+103898,Julien Benneteau,R,185,FRA
+209992,Juncheng Shang,L,NULL,CHN
+103781,Jurgen Melzer,L,183,AUT
+105132,Jurgen Zopp,R,190,EST
+200514,Jurij Rodionov,L,191,AUT
+111794,Kamil Majchrzak,R,183,POL
+111575,Karen Khachanov,R,198,RUS
+105453,Kei Nishikori,R,178,JPN
+104932,Kenny De Schepper,L,203,FRA
+104731,Kevin Anderson,R,203,RSA
+110536,Kevin King,U,190,USA
+106293,Kimmer Coppejans,R,180,BEL
+104505,Konstantin Kravchuk,R,190,RUS
+106378,Kyle Edmund,R,188,GBR
+111513,Laslo Djere,R,188,SRB
+106362,Laurent Lokoli,R,188,FRA
+210530,Learner Tien,U,NULL,USA
+104919,Leonardo Mayer,R,188,ARG
+111454,Li Tu,R,180,AUS
+106281,Liam Broady,L,183,GBR
+103720,Lleyton Hewitt,R,180,AUS
+144750,Lloyd Harris,R,193,RSA
+105841,Lorenzo Giustino,R,183,ITA
+207518,Lorenzo Musetti,R,185,ITA
+132283,Lorenzo Sonego,R,191,ITA
+209414,Luca Van Assche,R,NULL,FRA
+104563,Luca Vanni,R,198,ITA
+106298,Lucas Pouille,R,185,FRA
+127760,Lukas Klein,R,193,SVK
+105041,Lukas Lacko,R,185,SVK
+104586,Lukas Rosol,R,196,CZE
+103997,Lukasz Kubot,R,190,POL
+106291,Luke Saville,R,188,AUS
+111456,Mackenzie Mcdonald,R,178,USA
+104291,Malek Jaziri,R,185,TUN
+131905,Manuel Guinard,U,NULL,FRA
+144817,Marc Andrea Huesler,L,196,SUI
+117360,Marc Polmans,R,188,AUS
+104719,Marcel Granollers,R,190,ESP
+106065,Marco Cecchinato,R,185,ITA
+103843,Marco Chiudinelli,R,185,SUI
+105477,Marco Trungelliti,R,178,ARG
+104571,Marcos Baghdatis,R,183,CYP
+106218,Marcos Giron,R,180,USA
+105650,Marcus Willis,L,191,GBR
+103888,Mardy Fish,R,188,USA
+105227,Marin Cilic,R,198,CRO
+104594,Marinko Matosevic,R,194,AUS
+106408,Mario Vilella Martinez,R,178,ESP
+105657,Marius Copil,R,193,ROU
+104947,Marsel Ilhan,R,190,TUR
+105373,Martin Klizan,L,190,SVK
+105916,Marton Fucsovics,R,188,HUN
+106288,Mathias Bourgue,R,188,FRA
+208286,Matteo Arnaldi,R,183,ITA
+126610,Matteo Berrettini,R,196,ITA
+105881,Matthew Barton,R,191,AUS
+105051,Matthew Ebden,R,188,AUS
+104897,Matthias Bachinger,R,188,GER
+208233,Mattia Bellucci,L,NULL,ITA
+126845,Max Purcell,R,185,AUS
+202195,Maxime Cressy,R,198,USA
+111506,Maxime Hamou,R,185,FRA
+126125,Maxime Janvier,R,193,FRA
+109739,Maximilian Marterer,L,191,GER
+104216,Maximo Gonzalez,R,175,ARG
+103582,Michael Berrer,L,193,GER
+103566,Michael Llodra,L,190,FRA
+111581,Michael Mmoh,R,188,USA
+103188,Michael Russell,R,173,USA
+104308,Michal Przysiezny,R,185,POL
+111453,Mikael Torpegaard,R,193,DEN
+144707,Mikael Ymer,R,183,SWE
+105062,Mikhail Kukushkin,R,183,KAZ
+104022,Mikhail Youzhny,R,183,RUS
+105683,Milos Raonic,R,196,CAN
+105080,Miloslav Mecir Jr,R,190,SVK
+200175,Miomir Kecmanovic,R,183,SRB
+105806,Mirza Basic,R,188,BIH
+104999,Mischa Zverev,L,190,GER
+106283,Mitchell Krueger,R,188,USA
+105633,Mohamed Safwat,R,183,EGY
+106401,Nick Kyrgios,R,193,AUS
+200095,Nicola Kuhn,R,185,ESP
+104597,Nicolas Almagro,R,183,ESP
+111797,Nicolas Jarry,R,198,CHI
+106044,Nicolas Kicker,R,178,ARG
+103917,Nicolas Mahut,R,190,FRA
+134457,Nicolas Moreno De Alboran,R,NULL,USA
+104944,Niels Desein,R,190,BEL
+110748,Nikola Milojevic,R,188,SRB
+103786,Nikolay Davydenko,R,178,RUS
+105932,Nikoloz Basilashvili,R,185,GEO
+111511,Noah Rubin,R,175,USA
+105613,Norbert Gombos,R,193,SVK
+104925,Novak Djokovic,R,188,SRB
+132686,Nuno Borges,R,185,POR
+208071,Oleksii Krutykh,R,NULL,UKR
+117357,Omar Jasika,L,183,AUS
+106214,Oscar Otte,R,196,GER
+202261,Otto Virtanen,R,191,FIN
+104665,Pablo Andujar,R,180,ESP
+105807,Pablo Carreno Busta,R,188,ESP
+104655,Pablo Cuevas,R,180,URU
+103893,Paolo Lorenzi,R,183,ITA
+200516,Patrick Kypson,R,188,USA
+103908,Paul Henri Mathieu,R,185,FRA
+206703,Paul Jubb,R,180,GBR
+200303,Pavel Kotov,R,191,RUS
+106398,Pedro Cachin,R,185,ARG
+124079,Pedro Martinez,R,185,ESP
+105155,Pedro Sousa,R,180,POR
+105137,Pere Riba,R,183,ESP
+105376,Peter Gojowczyk,R,185,GER
+105166,Peter Polansky,R,180,CAN
+104259,Philipp Kohlschreiber,R,178,GER
+105732,Pierre Hugues Herbert,R,188,FRA
+103808,Potito Starace,R,188,ITA
+105432,Prajnesh Gunneswaran,L,188,IND
+111460,Quentin Halys,R,191,FRA
+103285,Radek Stepanek,R,185,CZE
+105430,Radu Albot,R,175,MDA
+104745,Rafael Nadal,L,185,ESP
+104330,Rajeev Ram,R,193,USA
+124187,Reilly Opelka,R,211,USA
+105952,Renzo Olivo,R,180,ARG
+105733,Rhyne Williams,R,185,USA
+105575,Ricardas Berankis,R,175,LTU
+104755,Richard Gasquet,R,185,FRA
+208014,Rinky Hijikata,U,NULL,AUS
+104068,Robby Ginepri,R,183,USA
+105138,Roberto Bautista Agut,R,183,ESP
+106148,Roberto Carballes Baena,R,183,ESP
+104898,Robin Haase,R,190,NED
+103819,Roger Federer,R,185,SUI
+104297,Rogerio Dutra Silva,R,178,BRA
+126128,Roman Safiullin,R,185,RUS
+105074,Ruben Bemelmans,L,183,BEL
+200484,Rudolf Molleker,R,185,GER
+105992,Ryan Harrison,R,183,USA
+126106,Ryan Peniston,U,NULL,GBR
+126152,Ryan Shane,U,193,USA
+105031,Saketh Myneni,R,193,IND
+106099,Salvatore Caruso,R,185,ITA
+105032,Sam Groth,R,193,AUS
+105023,Sam Querrey,R,198,USA
+200589,Sam Riffice,R,188,USA
+144973,Santiago Fa Rodriguez Taverna,R,NULL,ARG
+105053,Santiago Giraldo,R,188,COL
+202104,Sebastian Baez,R,170,ARG
+200624,Sebastian Korda,R,196,USA
+124116,Sebastian Ofner,R,191,AUT
+104660,Sergiy Stakhovsky,R,193,UKR
+208278,Shintaro Mochizuki,R,NULL,JPN
+200647,Sho Shimabukuro,U,NULL,JPN
+104620,Simone Bolelli,R,183,ITA
+104500,Somdev Devvarman,R,180,IND
+126952,Soon Woo Kwon,R,180,KOR
+104527,Stan Wawrinka,R,183,SUI
+111578,Stefan Kozlov,R,183,USA
+109303,Stefano Napolitano,R,196,ITA
+105882,Stefano Travaglia,R,185,ITA
+126774,Stefanos Tsitsipas,R,193,GRE
+103565,Stephane Robert,R,185,FRA
+104327,Steve Darcis,R,178,BEL
+105449,Steve Johnson,R,188,USA
+105731,Steven Diez,R,180,CAN
+111576,Sumit Nagal,R,178,IND
+134868,Tallon Griekspoor,R,188,NED
+106121,Taro Daniel,R,191,JPN
+105147,Tatsuma Ito,R,180,JPN
+126203,Taylor Fritz,R,193,USA
+105815,Tennys Sandgren,R,188,USA
+104559,Teymuraz Gabashvili,R,188,RUS
+111515,Thai Son Kwiatkowski,R,188,USA
+106423,Thanasi Kokkinakis,R,196,AUS
+202058,Thiago Agustin Tirante,R,185,ARG
+106329,Thiago Monteiro,L,183,BRA
+205734,Thiago Seyboth Wild,R,185,BRA
+105217,Thiemo De Bakker,R,193,NED
+105341,Thomas Fabbiano,R,173,ITA
+105064,Thomaz Bellucci,L,188,BRA
+105047,Tim Puetz,R,185,GER
+105065,Tim Smyczek,R,175,USA
+126646,Tim Van Rijthoven,R,188,NED
+207608,Timofey Skatov,R,173,RUS
+208169,Titouan Droguet,R,NULL,FRA
+104735,Tobias Kamke,R,180,GER
+144642,Tomas Barrios Vera,R,191,CHI
+104607,Tomas Berdych,R,196,CZE
+207830,Tomas Machac,R,183,CZE
+144869,Tomas Martin Etcheverry,R,196,ARG
+103163,Tommy Haas,R,188,GER
+126205,Tommy Paul,R,185,USA
+103990,Tommy Robredo,R,180,ESP
+106137,Tristan Lamasine,R,183,FRA
+200005,Ugo Humbert,L,188,FRA
+200265,Ulises Blanch,R,188,USA
+106324,Vaclav Safranek,R,185,CZE
+105577,Vasek Pospisil,R,193,CAN
+103607,Victor Estrella,R,173,DOM
+103812,Victor Hanescu,R,198,ROU
+104678,Viktor Troicki,R,193,SRB
+104672,Vincent Millot,L,173,FRA
+104639,Wayne Odesnik,L,180,USA
+105870,Yannick Hanfmann,R,193,GER
+120424,Yannick Maden,R,185,GER
+106034,Yasutaka Uchiyama,R,183,JPN
+104229,Yen Hsun Lu,R,180,TPE
+200059,Yibing Wu,R,183,CHN
+106415,Yoshihito Nishioka,L,170,JPN
+133297,Yosuke Watanuki,R,180,JPN
+200318,Yu Hsiou Hsu,U,NULL,TPE
+105216,Yuichi Sugita,R,173,JPN
+106026,Yuki Bhambri,R,183,IND
+208260,Zachary Svajda,R,175,USA
+144645,Zdenek Kolar,R,185,CZE
+105585,Ze Zhang,R,188,CHN
+104810,Zhe Li,R,185,CHN
+111190,Zhizhen Zhang,R,193,CHN
+200267,Zizou Bergs,R,185,BEL

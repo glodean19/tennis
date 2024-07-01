@@ -1,0 +1,40 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date
+2014-580,Australian Open,Hard,128,G,20140113
+2014-520,Roland Garros,Clay,128,G,20140526
+2014-540,Wimbledon,Grass,128,G,20140623
+2014-560,US Open,Hard,128,G,20140825
+2015-580,Australian Open,Hard,128,G,20150119
+2015-520,Roland Garros,Clay,128,G,20150524
+2015-540,Wimbledon,Grass,128,G,20150629
+2015-560,US Open,Hard,128,G,20150831
+2016-580,Australian Open,Hard,128,G,20160118
+2016-520,Roland Garros,Clay,128,G,20160523
+2016-540,Wimbledon,Grass,128,G,20160627
+2016-560,US Open,Hard,128,G,20160829
+2017-580,Australian Open,Hard,128,G,20170116
+2017-520,Roland Garros,Clay,128,G,20170529
+2017-540,Wimbledon,Grass,128,G,20170703
+2017-560,US Open,Hard,128,G,20170828
+2018-580,Australian Open,Hard,128,G,20180115
+2018-520,Roland Garros,Clay,128,G,20180528
+2018-540,Wimbledon,Grass,128,G,20180702
+2018-560,US Open,Hard,128,G,20180827
+2019-580,Australian Open,Hard,128,G,20190114
+2019-520,Roland Garros,Clay,128,G,20190527
+2019-540,Wimbledon,Grass,128,G,20190701
+2019-560,US Open,Hard,128,G,20190826
+2020-580,Australian Open,Hard,128,G,20200120
+2020-560,US Open,Hard,128,G,20200831
+2020-520,Roland Garros,Clay,128,G,20200928
+2021-520,Roland Garros,Clay,128,G,20210531
+2021-540,Wimbledon,Grass,128,G,20210628
+2021-560,US Open,Hard,128,G,20210830
+2021-580,Australian Open,Hard,128,G,20210208
+2022-580,Australian Open,Hard,128,G,20220117
+2022-520,Roland Garros,Clay,128,G,20220523
+2022-540,Wimbledon,Grass,128,G,20220627
+2022-560,US Open,Hard,128,G,20220829
+2023-580,Australian Open,Hard,128,G,20230116
+2023-520,Roland Garros,Clay,128,G,20230529
+2023-540,Wimbledon,Grass,128,G,20230703
+2023-560,US Open,Hard,128,G,20230828
